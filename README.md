@@ -3,7 +3,7 @@ description: Web Hosting built for RapidWeaver Elements.
 icon: server
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/
+    - /broken/spaces/yE16Xb3IemPxJWydtPOj/pages/LThc2RqOxBKU56Qt3TMy
 ---
 
 # Elements Hosting
