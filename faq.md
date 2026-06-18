@@ -341,7 +341,7 @@ If you need help locating files or using our built-in File Manager, our support 
 
 <summary>How can I contact support?</summary>
 
-You can contact our support team via [email](mailto:support@elmail.elementshosting.io) or through our [Community Forum](https://forums.realmacsoftware.com/c/rapidweaver-elements/hosting/65).
+You can contact our support team via [email](mailto:support@elementsplatform.com) or through our [Community Forum](https://forums.realmacsoftware.com/c/rapidweaver-elements/hosting/65).
 
 Both options are monitored by the same team that builds and maintains Elements Hosting and RapidWeaver Elements.
 
