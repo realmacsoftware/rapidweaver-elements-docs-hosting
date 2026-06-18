@@ -56,3 +56,9 @@
 * [How-To Guides](how-to/how-to-guides/README.md)
   * [Request Website Migration](how-to/how-to-guides/request-website-migration.md)
   * [Request Domain Name Transfer](how-to/how-to-guides/request-domain-name-transfer.md)
+
+## Legal
+
+***
+
+* [Acceptable Use Policy](acceptable-use-policy.md)
