@@ -5,9 +5,9 @@ icon: square-check
 
 # Acceptable Use Policy
 
-This Acceptable Use Policy (the “AUP”) explains the standards that apply when using services provided by Elements Platform Ltd. (“Elements Platform”, “us”, “our”). It applies to the use of our websites, portals, applications, hosted environments, infrastructure, support systems, and related services (together, the “Services”) by customers, account holders, administrators, resellers, end users, and any other person who accesses or uses the Services through an Elements Platform account (collectively, “you” and “your”). The Services may be used only for legitimate purposes and in a way that is consistent with this AUP, the applicable agreement for the Services, and any related terms published by Elements Platform.
+This Acceptable Use Policy (the “AUP”) explains the standards that apply when using services provided by Elements Platform Ltd. (“Elements Hosting”, “us”, “our”). It applies to the use of our websites, portals, applications, hosted environments, infrastructure, support systems, and related services (together, the “Services”) by customers, account holders, administrators, resellers, end users, and any other person who accesses or uses the Services through an Elements Hosting account (collectively, “you” and “your”). The Services may be used only for legitimate purposes and in a way that is consistent with this AUP, the applicable agreement for the Services, and any related terms published by Elements Hosting.
 
-This AUP provides examples of prohibited conduct, but it does not list every form of misuse. Elements Platform may update this AUP by posting a revised version, and continued use of the Services after any update means you accept the revised policy. You are responsible for your own use of the Services and for ensuring that your employees, contractors, customers, and end users comply with this AUP. If this AUP is breached, Elements Platform may investigate the matter and may restrict, suspend, or terminate access to the Services or the relevant account where appropriate.
+This AUP provides examples of prohibited conduct, but it does not list every form of misuse. Elements Hosting may update this AUP by posting a revised version, and continued use of the Services after any update means you accept the revised policy. You are responsible for your own use of the Services and for ensuring that your employees, contractors, customers, and end users comply with this AUP. If this AUP is breached, Elements Hosting may investigate the matter and may restrict, suspend, or terminate access to the Services or the relevant account where appropriate.
 
 ## Illegal, harmful, and offensive use
 
@@ -28,7 +28,7 @@ This includes, for example:
 
 You must not use the Services to send, publish, distribute, relay, or facilitate unsolicited bulk communications, including spam email, mass marketing messages, unsolicited promotions, or similar abusive campaigns. You must not falsify or obscure message headers, routing details, or sender identity, and you must not collect responses to messages that violate this policy or another provider’s acceptable use rules.
 
-Forums, messaging systems, feeds, ticketing tools, and any other communication features made available through the Services must not be used to promote unrelated businesses, services, or opportunities unless Elements Platform has expressly approved that use.
+Forums, messaging systems, feeds, ticketing tools, and any other communication features made available through the Services must not be used to promote unrelated businesses, services, or opportunities unless Elements Hosting has expressly approved that use.
 
 ## Security violations
 
@@ -53,7 +53,7 @@ Prohibited conduct includes:
 * Using manual or automated methods to bypass account restrictions, service limits, access controls, or storage controls.
 * Excessive or abusive consumption of compute, network, or other shared resources in a way that affects platform stability or the experience of other users.
 
-Where resource usage is unusually high but not otherwise prohibited, Elements Platform may apply reasonable technical controls or request corrective action in order to maintain reliable performance across the platform.
+Where resource usage is unusually high but not otherwise prohibited, Elements Hosting may apply reasonable technical controls or request corrective action in order to maintain reliable performance across the platform.
 
 ## Compliance obligations
 
@@ -61,11 +61,11 @@ You must comply with this AUP and with all laws, regulations, and regulatory req
 
 ## Monitoring and enforcement
 
-Elements Platform may investigate suspected misuse of the Services or any violation of this AUP. To protect the platform, customers, third parties, and the public, Elements Platform may review relevant reports and technical information, remove or disable access to content, require remediation, impose restrictions, suspend access, or terminate Services or accounts as appropriate.
+Elements Hosting may investigate suspected misuse of the Services or any violation of this AUP. To protect the platform, customers, third parties, and the public, Elements Hosting may review relevant reports and technical information, remove or disable access to content, require remediation, impose restrictions, suspend access, or terminate Services or accounts as appropriate.
 
-Elements Platform may also preserve, use, or disclose relevant information where reasonably necessary to investigate abuse, address security issues, prevent fraud, enforce contractual rights, comply with legal obligations, protect rights or property, or cooperate with law enforcement, regulators, courts, or other appropriate authorities.
+Elements Hosting may also preserve, use, or disclose relevant information where reasonably necessary to investigate abuse, address security issues, prevent fraud, enforce contractual rights, comply with legal obligations, protect rights or property, or cooperate with law enforcement, regulators, courts, or other appropriate authorities.
 
-Nothing in this AUP obliges Elements Platform to monitor every activity or retain content after Services have ended. Elements Platform may act immediately, including without prior notice, where prompt intervention is reasonably necessary.
+Nothing in this AUP obliges Elements Hosting to monitor every activity or retain content after Services have ended. Elements Hosting may act immediately, including without prior notice, where prompt intervention is reasonably necessary.
 
 ## Examples of prohibited activities
 
@@ -86,11 +86,11 @@ Without limiting the general rules above, the following activities are prohibite
 * Hosting TOR exit nodes.
 * Selling, sharing, or otherwise providing user directories, usage data, or account-related information obtained through the Services unless expressly authorized.
 * Carrying out network probing or port scanning without explicit authorization from the owner or operator of the destination host or network.
-* Using bots or automated systems to acquire goods, inventory, tickets, or similar items in a way that breaches third-party terms or causes Elements Platform IP ranges or upstream infrastructure to be blocked or restricted.
+* Using bots or automated systems to acquire goods, inventory, tickets, or similar items in a way that breaches third-party terms or causes Elements Hosting IP ranges or upstream infrastructure to be blocked or restricted.
 * Operating autodialers, robocalling systems, or similar VoIP-based mass-calling tools.
 * Using the Services to offer denial-of-service or distributed denial-of-service mitigation as a service where that use creates abuse or upstream risk for the platform.
 * Using the Services for CPU or GPU cryptocurrency mining.
 
 ## Reporting violations
 
-If you become aware of a violation of this AUP, you must notify Elements Platform promptly and provide reasonable assistance, where requested, to help stop or remedy the issue. Reports concerning spam, abuse, unlawful content, attacks, or other suspected violations should be sent to [abuse@elementsplatform.com](mailto:abuse@elementsplatform.com).
+If you become aware of a violation of this AUP, you must notify Elements Hosting promptly and provide reasonable assistance, where requested, to help stop or remedy the issue. Reports concerning spam, abuse, unlawful content, attacks, or other suspected violations should be sent to [abuse@elementsplatform.com](mailto:abuse@elementsplatform.com).
