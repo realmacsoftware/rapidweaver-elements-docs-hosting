@@ -59,6 +59,4 @@
 
 ## Legal
 
-***
-
-* [Acceptable Use Policy](acceptable-use-policy.md)
+* [Acceptable Use Policy](legal/acceptable-use-policy.md)
