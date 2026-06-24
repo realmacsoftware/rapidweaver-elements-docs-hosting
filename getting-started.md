@@ -11,7 +11,7 @@ icon: flag-checkered
 
 ### Navigating the Client Portal
 
-YouTube Video Here
+{% embed url="https://www.youtube.com/watch?v=wHoMJltu3bI" %}
 
 ### Navigating the Reactor Panel
 
