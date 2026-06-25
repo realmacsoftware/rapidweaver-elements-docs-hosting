@@ -15,4 +15,4 @@ icon: flag-checkered
 
 ### Navigating the Reactor Panel
 
-YouTube Video Here
+{% embed url="https://www.youtube.com/watch?v=dkz9HnfF1Po" %}
