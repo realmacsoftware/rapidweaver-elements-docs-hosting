@@ -14,4 +14,4 @@ From this page, you can:
 * Place an order for a new web hosting package (Starter, Freelancer, or Business package)
 * Place an order for a new domain name registration or transfer
 
-If you have any questions about any of our products or services, or need help placing your order, don't hesitate to [contact our friendly support team](support.md)!
+If you have any questions about any of our products or services, or need help placing your order, don't hesitate to [contact our friendly support team](/broken/pages/bCA1cMkm0emyc6NRUv00)!

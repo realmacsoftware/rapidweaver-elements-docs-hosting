@@ -11,7 +11,6 @@
 * [Products & Services](elements-hosting-client-portal/products-and-services.md)
 * [Billing](elements-hosting-client-portal/billing.md)
 * [My Account](elements-hosting-client-portal/my-account.md)
-* [Support](elements-hosting-client-portal/support.md)
 * [Place New Order](elements-hosting-client-portal/place-new-order.md)
 
 ## Elements Hosting Reactor Panel
