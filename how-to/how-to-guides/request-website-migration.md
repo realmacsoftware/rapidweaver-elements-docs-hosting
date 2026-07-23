@@ -9,15 +9,15 @@ If you are wanting to migrate your website over to us, we offer a free migration
 
 To request a free website migration, follow the below steps.
 
-#### Step 1
+### Step 1 - Submit your login details to your old web host
 
 Log into the [Elements Hosting Client Portal](https://portal.elementshosting.io/) and navigate to the **My Account** page. Select **Notes & Secrets** from the sidebar menu, then in the **Account Secrets** section enter your login details to your old web hosting provider (or your FTP/SFTP user credentials if you do not have login details to your old web host).
 
 Click the `Save` button when complete.
 
-<figure><img src="../../.gitbook/assets/01-how-to-request-account-migration.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/01-how-to-request-a-website-migration@2x.webp" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/02-how-to-request-account-migration.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/02-how-to-request-a-website-migration@2x.webp" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If you need to make any edits to your submitted login details, or if you need to delete them, click on the `...` icon and select either **Edit** or **Delete**.
@@ -27,20 +27,17 @@ If you need to make any edits to your submitted login details, or if you need to
 If you have two-factor authentication (2FA) enabled on your account at your old web hosting provider, please make sure to disable that so we can log into your account to start the migration process!
 {% endhint %}
 
-#### Step 2
+### Step 2 - Submit your migration request
 
-Next, head over to the **Support** page and click the `Open new ticket` button.
+Submit a support ticket to us at:
 
-<figure><img src="../../.gitbook/assets/03-how-to-request-account-migration.webp" alt=""><figcaption></figcaption></figure>
+[Request a website migration](mailto:support@elementsplatform.com?subject=New%20Migration%20Request\&body=Hello,%0A%0AI%20would%20like%20to%20request%20a%20migration%20for%20the%20following%20websites:%0A%0A%0A%0A%0AI%20would%20like%20to%20schedule%20the%20migration%20to%20take%20place%20during%20this%20date%20and%20time:%0A%0A%0A%0A%0AI%20have%20submitted%20the%20login%20credentials%20to%20my%20old%20web%20hosting%20provider%20via%20the%20Client%20Portal.%0A%0AThanks!)
 
-Submit a new support ticket as follows:
+Make sure to include:
 
-1. **Subject** - New Migration Request
-2. **Department** - Support
-3. **Related Product (Optional)** - Select the web hosting plan you'd like us to migrate your website to.
-4. **Message** - Let us know you are ready to start the migration process, along with any additional information such as the website(s) that you would like for us to migrate, and special details we should know about, any specific time you'd like for us to start the migration process, etc.
-
-<figure><img src="../../.gitbook/assets/04-how-to-request-account-migration.webp" alt=""><figcaption></figcaption></figure>
+* The websites you would like migrated
+* The date and time you'd like the migration to take place
+* Confirmation you have submitted your login details to your old web hosting provider per [Step 1](request-website-migration.md#step-1-submit-your-login-details-to-your-old-web-host) so we can complete the migration.
 
 After you submit your migration request, we will review it and follow up with next steps.
 
