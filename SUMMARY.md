@@ -56,6 +56,7 @@
 * [How-To Guides](how-to/how-to-guides/README.md)
   * [Request Website Migration](how-to/how-to-guides/request-website-migration.md)
   * [Request Domain Name Transfer](how-to/how-to-guides/request-domain-name-transfer.md)
+  * [Add Cache-Control Headers](how-to/how-to-guides/add-cache-control-headers.md)
 
 ## Legal
 
