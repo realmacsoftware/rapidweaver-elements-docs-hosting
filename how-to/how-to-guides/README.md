@@ -12,3 +12,7 @@ icon: book-open-lines
 ### Performance Optimizations
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Add Cache-Control Headers</td><td><a href="add-cache-control-headers.md">add-cache-control-headers.md</a></td></tr></tbody></table>
+
+### Security Optimizations
+
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
