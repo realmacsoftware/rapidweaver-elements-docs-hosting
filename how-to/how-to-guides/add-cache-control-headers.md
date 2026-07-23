@@ -84,12 +84,21 @@ Suitable for most RapidWeaver Elements and RapidWeaver Classic websites.
         Header merge Cache-Control "immutable"
     </FilesMatch>
 
-    # PHP responses may contain forms, CMS content, search results,
-    # authentication responses, or other dynamic content.
+    # Do not cache dynamic PHP responses.
     <FilesMatch "\.php$">
+        # Remove headers generated in the normal response-header table.
         Header unset Expires
-        Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
-        Header set Pragma "no-cache"
+        Header unset Cache-Control
+        Header unset Pragma
+
+        # Remove any equivalent headers returned by PHP-FPM.
+        Header always unset Expires
+        Header always unset Cache-Control
+        Header always unset Pragma
+
+        # Apply one authoritative no-cache policy.
+        Header always set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
+        Header always set Pragma "no-cache"
     </FilesMatch>
 </IfModule>
 ```
@@ -154,17 +163,27 @@ Suitable for websites whose pages and images are changed regularly.
 </IfModule>
 
 <IfModule mod_headers.c>
-    # RapidWeaver normally changes the cache-busting URL when CSS or
-    # JavaScript files change, allowing these files to be cached long term.
+    # RapidWeaver normally cache-busts CSS and JavaScript when publishing.
+    # Fonts are also suitable for long-lived immutable caching.
     <FilesMatch "\.(?:css|js|mjs|woff2?|ttf|otf|eot)$">
         Header merge Cache-Control "immutable"
     </FilesMatch>
 
-    # Keep directly requested PHP responses short-lived.
+    # Do not cache dynamic PHP responses.
     <FilesMatch "\.php$">
+        # Remove headers generated in the normal response-header table.
         Header unset Expires
-        Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
-        Header set Pragma "no-cache"
+        Header unset Cache-Control
+        Header unset Pragma
+
+        # Remove any equivalent headers returned by PHP-FPM.
+        Header always unset Expires
+        Header always unset Cache-Control
+        Header always unset Pragma
+
+        # Apply one authoritative no-cache policy.
+        Header always set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
+        Header always set Pragma "no-cache"
     </FilesMatch>
 </IfModule>
 ```
@@ -229,15 +248,27 @@ Suitable for relatively static websites where minimal changes are made. For user
 </IfModule>
 
 <IfModule mod_headers.c>
-    # These file types are expected to use versioned or cache-busted URLs.
+    # RapidWeaver normally cache-busts CSS and JavaScript when publishing.
+    # Fonts are also suitable for long-lived immutable caching.
     <FilesMatch "\.(?:css|js|mjs|woff2?|ttf|otf|eot)$">
         Header merge Cache-Control "immutable"
     </FilesMatch>
 
-    # Dynamic PHP responses remain shorter-lived than static assets.
+    # Do not cache dynamic PHP responses.
     <FilesMatch "\.php$">
+        # Remove headers generated in the normal response-header table.
         Header unset Expires
-        Header set Cache-Control "max-age=3600, must-revalidate"
+        Header unset Cache-Control
+        Header unset Pragma
+
+        # Remove any equivalent headers returned by PHP-FPM.
+        Header always unset Expires
+        Header always unset Cache-Control
+        Header always unset Pragma
+
+        # Apply one authoritative no-cache policy.
+        Header always set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
+        Header always set Pragma "no-cache"
     </FilesMatch>
 </IfModule>
 ```
@@ -247,7 +278,7 @@ Suitable for relatively static websites where minimal changes are made. For user
 | Resource           | Origin cache lifetime |
 | ------------------ | --------------------- |
 | HTML               | 24 hours              |
-| PHP                | 1 hour                |
+| PHP                | Not cached            |
 | CSS and JavaScript | 1 year, immutable     |
 | Fonts              | 1 year, immutable     |
 | Images             | 6 months              |
