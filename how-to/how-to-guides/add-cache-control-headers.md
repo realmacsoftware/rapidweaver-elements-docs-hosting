@@ -91,7 +91,7 @@ Suitable for most RapidWeaver Elements and RapidWeaver Classic websites.
         Header unset Cache-Control
         Header unset Pragma
 
-        # Remove any equivalent headers returned by PHP-FPM.
+        # Remove equivalent headers from Apache's always header table.
         Header always unset Expires
         Header always unset Cache-Control
         Header always unset Pragma
@@ -176,7 +176,7 @@ Suitable for websites whose pages and images are changed regularly.
         Header unset Cache-Control
         Header unset Pragma
 
-        # Remove any equivalent headers returned by PHP-FPM.
+        # Remove equivalent headers from Apache's always header table.
         Header always unset Expires
         Header always unset Cache-Control
         Header always unset Pragma
@@ -261,7 +261,7 @@ Suitable for relatively static websites where minimal changes are made. For user
         Header unset Cache-Control
         Header unset Pragma
 
-        # Remove any equivalent headers returned by PHP-FPM.
+        # Remove equivalent headers from Apache's always header table.
         Header always unset Expires
         Header always unset Cache-Control
         Header always unset Pragma
