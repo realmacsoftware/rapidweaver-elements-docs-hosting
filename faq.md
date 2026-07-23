@@ -29,7 +29,7 @@ If you encounter any troubles or have any questions before, during, or after the
 
 Yes! The easiest way is to update your publishing settings in the Elements app to your new Elements Hosting details, and then re-publish your website to your new hosting account with us.
 
-We also offer free website migrations from your old web host to us if needed, just ask and we'll be happy to help!
+We also offer [free website migrations](how-to/how-to-guides/request-website-migration.md) from your old web host to us if needed, just ask and we'll be happy to help!
 
 </details>
 
@@ -117,7 +117,7 @@ Please note that once a domain is registered, it cannot be refunded. However, yo
 
 We don’t offer email hosting. Instead, we focus on delivering excellent website hosting for RapidWeaver Elements.
 
-Email hosting is best handled by dedicated providers (we recommend [Fastmail](https://join.fastmail.com/elements-hosting)) so we recommend trusted email services that work seamlessly with Elements Hosting. This way, you get a fast, reliable website and dependable email, each handled by specialists.
+Email hosting is best handled by dedicated providers so we recommend trusted email services that work seamlessly with Elements Hosting (we recommend [Fastmail](https://join.fastmail.com/elements-hosting)). This way, you get a fast, reliable website and dependable email, each handled by specialists.
 
 </details>
 
@@ -177,7 +177,7 @@ You can choose the option that best fits your needs and upgrade as your site gro
 
 <summary>Where are your servers located?</summary>
 
-Our servers are currently located in the United Kingdom, United States, and Europe.
+We currently have servers located in the United Kingdom, United States, Europe, and Australia.
 
 As Elements Hosting grows, we plan to expand into additional geographic regions based on customer demand to ensure fast and reliable access for visitors around the world.
 
@@ -222,7 +222,7 @@ This includes malware and virus protection, DDoS mitigation, and bot protection,
 Yes. Elements Hosting provides multiple layers of backups to protect your websites and project files, each serving a specific purpose:
 
 * **Server-level backups** are full snapshots of the entire server, stored by our cloud storage provider. These backups are intended for disaster recovery and cannot be used to restore individual files or accounts. They allow recovery of the entire server in the event of a major issue.
-* **Full account backups** are stored in Cloudflare R2 object storage and capture all websites and data within your hosting account. You can restore these backups yourself via the Elements Hosting Reactor Panel, or request a restore from the Elements Hosting team. Individual files cannot be restored from these backups, restoration is always for the entire account.
+* **Full account backups** are stored in our offsite dedicated backup server and capture all websites and data within your hosting account. You can restore these backups yourself via the Elements Hosting Reactor Panel, or request a restore from the Elements Hosting team. You can restore both full account backups, as well as individual files and folders, giving your greater restoration flexibility.
 * **Project file backups** save your RapidWeaver project file each time you publish your site from the Elements app. The backup is stored on your hosting account and overwritten with the most current version after each publish. This ensures you always have an up-to-date copy of your project file available for restoration if needed.
 
 Together, these three backup layers provide comprehensive protection for both your website content and your project files.
@@ -263,7 +263,7 @@ Yes. Storage and bandwidth limits are set by the hosting package you choose. Che
 
 <summary>Can I host multiple websites?</summary>
 
-Yes. Many plans allow multiple websites under the same account. Whether yours does depends on the package; check the plan features or get in touch and we’ll confirm.
+Yes. All plans allow unlimited websites to be hosted.
 
 </details>
 
