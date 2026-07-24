@@ -1,13 +1,13 @@
 ---
-description: Log in to the Elements Hosting Client Portal
+description: Log into the Elements Hosting Client Portal
 icon: house
 ---
 
 # Home
 
-<figure><img src="../.gitbook/assets/01-elements-hosting-client-portal-login.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/01-elements-hosting-client-portal-login@2x.webp" alt=""><figcaption></figcaption></figure>
 
-The [Elements Hosting Client Portal](https://portal.elementshosting.io/auth/login) is the central place where you manage your account, billing, subscriptions, and support inquiries.
+The [Elements Hosting Client Portal](https://portal.elementshosting.io/auth/login) is the central place where you manage your account, billing, and subscriptions.
 
 From the Client Portal, you can:
 
