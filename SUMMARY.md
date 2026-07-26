@@ -32,7 +32,7 @@
     * [Redirects](elements-hosting-reactor-panel/websites/manage-websites/redirects.md)
     * [Optimization](elements-hosting-reactor-panel/websites/manage-websites/optimization.md)
     * [FTP Accounts](elements-hosting-reactor-panel/websites/manage-websites/ftp-accounts/README.md)
-      * [How to create an FTP account.](elements-hosting-reactor-panel/websites/manage-websites/ftp-accounts/how-to-create-an-ftp-account..md)
+      * [How to create an FTP account](elements-hosting-reactor-panel/websites/manage-websites/ftp-accounts/how-to-create-an-ftp-account.md)
       * [How to publish your Elements site using FTP](elements-hosting-reactor-panel/websites/manage-websites/ftp-accounts/how-to-publish-your-elements-site-using-ftp.md)
       * [How to publish your Elements site using SFTP](elements-hosting-reactor-panel/websites/manage-websites/ftp-accounts/how-to-publish-your-elements-site-using-sftp.md)
     * [Advanced](elements-hosting-reactor-panel/websites/manage-websites/advanced/README.md)

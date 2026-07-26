@@ -15,8 +15,8 @@ Elements Hosting supports both traditional FTP and secure SFTP connections, and 
 For publishing and ongoing updates from RapidWeaver Elements, **we recommend using SFTP**. SFTP protects your data while it is being transferred and is designed to be more secure and stable than standard FTP, helping ensure your site publishes smoothly and safely.
 {% endhint %}
 
-{% content-ref url="how-to-create-an-ftp-account..md" %}
-[how-to-create-an-ftp-account..md](how-to-create-an-ftp-account..md)
+{% content-ref url="how-to-create-an-ftp-account.md" %}
+[how-to-create-an-ftp-account.md](how-to-create-an-ftp-account.md)
 {% endcontent-ref %}
 
 {% content-ref url="how-to-publish-your-elements-site-using-ftp.md" %}
