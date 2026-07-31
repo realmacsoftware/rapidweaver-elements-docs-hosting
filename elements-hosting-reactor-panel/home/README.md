@@ -1,5 +1,5 @@
 ---
-description: Log in to the Elements Hosting Reactor Panel
+description: Log into the Elements Hosting Reactor Panel
 icon: house
 ---
 

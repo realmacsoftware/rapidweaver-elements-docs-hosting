@@ -50,6 +50,10 @@
   * [DNS](elements-hosting-reactor-panel/integrations/dns.md)
   * [Notifications](elements-hosting-reactor-panel/integrations/notifications.md)
 
+## Managed Cloudflare Account
+
+* [Home](managed-cloudflare-account/home.md)
+
 ## How To
 
 * [How-To Guides](how-to/how-to-guides/README.md)
