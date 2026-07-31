@@ -9,7 +9,7 @@ icon: globe-www
 
 <figure><img src="../.gitbook/assets/01-domains-overview-page@2x.webp" alt=""><figcaption></figcaption></figure>
 
-The Domains page lists all of the websites that have been added to your Elements Hosting account.
+The Domains Overview page lists all of the websites that have been added to your Elements Hosting account.
 
 Each domain listed here represents a website that you can manage using Cloudflare. From here, you can open an individual domain to configure features such as caching, performance, security, SSL/TLS settings, analytics, and more.
 
