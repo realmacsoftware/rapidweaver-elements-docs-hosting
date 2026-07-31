@@ -2,7 +2,7 @@
 description: >-
   Add addon domains, subdomains, and domain aliases to your Elements Hosting
   account
-icon: book-atlas
+icon: globe-www
 ---
 
 # Domains

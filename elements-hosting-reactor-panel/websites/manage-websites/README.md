@@ -1,6 +1,6 @@
 ---
 description: View and manage all your hosted websites in your Elements Hosting account
-icon: window
+icon: browsers
 ---
 
 # Manage Websites

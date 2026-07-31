@@ -53,6 +53,7 @@
 ## Managed Cloudflare Account
 
 * [Home](managed-cloudflare-account/home.md)
+* [Domains](managed-cloudflare-account/domains.md)
 
 ## How To
 
