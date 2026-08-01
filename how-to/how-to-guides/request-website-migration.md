@@ -11,7 +11,7 @@ To request a free website migration, follow the below steps.
 
 ### Step 1 - Submit your login details to your old web host
 
-Log into the [Elements Hosting Client Portal](https://portal.elementshosting.io/) and navigate to the **My Account** page. Select **Notes & Secrets** from the sidebar menu, then in the **Account Secrets** section enter your login details to your old web hosting provider (or your FTP/SFTP user credentials if you do not have login details to your old web host).
+Log into the [Elements Hosting Client Portal](https://portal.elementshosting.io/account/notes) and navigate to the **My Account** page. Select **Notes & Secrets** from the sidebar menu, then in the **Account Secrets** section enter your login details to your old web hosting provider (or your FTP/SFTP user credentials if you do not have login details to your old web host).
 
 Click the `Save` button when complete.
 
