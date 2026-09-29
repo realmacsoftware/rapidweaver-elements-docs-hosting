@@ -5,6 +5,8 @@ icon: gear-code
 
 # Add Cache-Control Headers
 
+{% embed url="https://www.youtube.com/watch?v=WALQjfdd2L4" %}
+
 ## Configure Browser Caching with Cache-Control Headers
 
 When someone visits your website, their browser downloads your site’s files, such as images, CSS stylesheets, JavaScript, and fonts. By default, the browser decides how long to keep these files before checking the server for newer versions.
